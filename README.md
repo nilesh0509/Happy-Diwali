@@ -13,8 +13,8 @@ Check out the live version of this project [here](https://nilesh0509.github.io/H
 
 ## 📸 Preview
 
-![Happy-Diwali ](https://github.com/user-attachments/assets/399b9b6c-1605-4142-879a-9ddc6f39fb18)
-*Preview of the Calculator Web App in action*
+![Happy-Diwali ](https://github.com/nilesh0509/Happy-Diwali/blob/main/Music/Preview.mp4)
+*Preview of the Happy-Diwali in action*
 
 ---
 
