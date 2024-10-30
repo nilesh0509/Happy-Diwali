@@ -261,3 +261,18 @@ p span {
 }
 
 
+/* Hide the audio player but keep functionality */
+.transparent {
+    background: transparent;
+    border: none;
+    width: 100%; /* Adjust width as desired */
+    outline: none;
+}
+
+  /* Hide everything except the audio controls */
+.transparent::-webkit-media-controls-panel {
+    background-color: transparent;
+    color: transparent;
+}
+
+
